@@ -31,6 +31,17 @@ The model ensures a scalable and efficient solution 🔧 to enhance user experie
 - Example : On Netflix, it uses collaborative filtering to identify popular shows among similar viewers and content-based filtering to match your preferences (e.g., genre, cast). If you watch Sacred Games, Netflix may recommend Delhi Crime (due to genre and cast similarities) and also shows liked by users with similar watching patterns.
 
 
+# Demo :
+
+<img src="Images/1.png" alt="workflow" width="70%">
+
+<img src="Images/2.png" alt="workflow" width="70%">
+
+<img src="Images/3.png" alt="workflow" width="70%">
+
+<img src="Images/4.png" alt="workflow" width="70%">
+
+
 
 
 
