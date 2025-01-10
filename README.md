@@ -33,6 +33,7 @@ The model ensures a scalable and efficient solution 🔧 to enhance user experie
 
 # Demo :
 
+
 <img src="Images/1.png" alt="workflow" width="70%">
 
 <img src="Images/2.png" alt="workflow" width="70%">
@@ -40,6 +41,51 @@ The model ensures a scalable and efficient solution 🔧 to enhance user experie
 <img src="Images/3.png" alt="workflow" width="70%">
 
 <img src="Images/4.png" alt="workflow" width="70%">
+
+
+# How to run ? 
+### Steps : 
+
+Clone the Repository
+
+```bash
+https://github.com/codecreator-dev004/Movies-Recommendation-System.git
+```
+
+### Step 01- Create a conda environment after opening the repository
+
+```bash
+conda create -n movie python=3.12.7 -y
+```
+
+```bash
+conda activate movie
+```
+
+### Step 02- install the requirements
+```bash
+pip install -r requirements.txt
+```
+
+```bash
+#run this file to generate the models
+
+Movie Recommender System  Recommender_System.ipynb
+```
+
+Now run,
+```bash
+streamlit run app.py
+```
+
+```bash
+Author: Devanshu Kumar
+Python Developer
+Email: kumardevasnhu553@gmail.com
+
+```
+
+
 
 
 
