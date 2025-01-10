@@ -8,27 +8,27 @@ The model ensures a scalable and efficient solution 🔧 to enhance user experie
 
 ##  What is  Recommendation System ? 
 
-    Recommendation System is nothing but the system which recommended on the basis of the Content-Based , Collaborative Filtering Based and  Hybrid Based Method .
+- Recommendation System is nothing but the system which recommended on the basis of the Content-Based , Collaborative Filtering Based and  Hybrid Based Method .
 
 ## Types of Recommendation System :
 
 ### 1. Content Based : 
 
-    A content-based recommendation system suggests items to users based on the features of items they have previously interacted with or liked. It matches the user's preferences with item attributes.
+- A content-based recommendation system suggests items to users based on the features of items they have previously interacted with or liked. It matches the user's preferences with item attributes.
 
-    Examples : In Netflix, if you watch a lot of science-fiction movies (e.g., Inception), it recommends other sci-fi movies (e.g., Interstellar) based on the genre, director, and storyline similarities.
+- Examples : In Netflix, if you watch a lot of science-fiction movies (e.g., Inception), it recommends other sci-fi movies (e.g., Interstellar) based on the genre, director, and storyline similarities.
 
 ### 2. Collaborative filtering Based : 
 
-    Collaborative filtering is a recommendation technique that suggests items based on the preferences and behaviors of other users. It assumes that users with similar tastes will like similar items.
+- Collaborative filtering is a recommendation technique that suggests items based on the preferences and behaviors of other users. It assumes that users with similar tastes will like similar items.
 
-    Example : On Gaana or JioSaavn, if many users who listen to Artist A (Arijit Singh) also listen to Artist B (Shreya Ghoshal), the platform recommends Shreya Ghoshal to users who enjoy Arijit Singh, even if they've never searched for her music before. This works based on overlapping listening patterns of Indian audiences.
+- Example : On Gaana or JioSaavn, if many users who listen to Artist A (Arijit Singh) also listen to Artist B (Shreya Ghoshal), the platform recommends Shreya Ghoshal to users who enjoy Arijit Singh, even if they've never searched for her music before. This works based on overlapping listening patterns of Indian audiences.
 
 ### 3. Hybrid Based : 
 
-    Hybrid Recommendation System combines multiple recommendation approaches, such as content-based and collaborative filtering, to improve accuracy and overcome limitations of individual methods.
+- Hybrid Recommendation System combines multiple recommendation approaches, such as content-based and collaborative filtering, to improve accuracy and overcome limitations of individual methods.
 
-    Example : On Netflix, it uses collaborative filtering to identify popular shows among similar viewers and content-based filtering to match your preferences (e.g., genre, cast). If you watch Sacred Games, Netflix may recommend Delhi Crime (due to genre and cast similarities) and also shows liked by users with similar watching patterns.
+- Example : On Netflix, it uses collaborative filtering to identify popular shows among similar viewers and content-based filtering to match your preferences (e.g., genre, cast). If you watch Sacred Games, Netflix may recommend Delhi Crime (due to genre and cast similarities) and also shows liked by users with similar watching patterns.
 
 
 
