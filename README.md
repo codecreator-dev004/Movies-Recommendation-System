@@ -81,7 +81,7 @@ streamlit run app.py
 ```bash
 Author: Devanshu Kumar
 Python Developer
-Email: kumardevasnhu553@gmail.com
+Email: kumardevanshu553@gmail.com
 
 ```
 
